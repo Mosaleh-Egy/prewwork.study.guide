@@ -5,29 +5,14 @@
 This This Prework Study Guide was created for boot camp student who had no past experience in coding what so ever! It contains notes on HTML, CSS, Git, and JavaScript.
 It was chellenging but I was motivated!
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 ## Installation
 
 N/A
 
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
-
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+UC Berkeley Prework study guide
 
 ## License
 MIT License
